@@ -6,5 +6,5 @@ function send() {
 
     let age = dateActuelle.getFullYear() - dateNaissance.getFullYear();
 
-    alert("Bonjour " + name + " " + prenom +  ", vous aurez " + age + " cette annee");
+    alert("Bonjour " + name + " " + prenom +  ", vous aurez " + age + " ans cette annee");
 }
